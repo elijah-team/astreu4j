@@ -4,6 +4,7 @@
 - Can't get this to work
   - Junit green, but...
   - Yes, I tried with docker
+- I'll look at it a bit more
 
 ```bash
 podman run --rm --net=host -e RELEASE_NODE=unique_name_peer_node docker.io/eigr/astreu:0.1.2
